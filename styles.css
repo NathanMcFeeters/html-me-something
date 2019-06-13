@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #aec5e8;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+header{
+    padding-left: 35%;
+    font-size: 150%;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    background-color: #a8bcdb;
+}
+
+main{
+    background-color: #a8bcdb;
+}
+
+.Intro{
+    background-color: aquamarine;
+}
+
+#TableContents{
+    font-family: 'Times New Roman', Times, serif;
+}
